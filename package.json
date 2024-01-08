@@ -1,0 +1,23 @@
+{
+  "name": "a3_os_lyb_rb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "release": "release-it"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "user": "^0.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.7",
+    "@babel/preset-env": "^7.23.7",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.56.0",
+    "release-it": "^17.0.1"
+  }
+}
