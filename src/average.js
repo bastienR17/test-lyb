@@ -1,5 +1,7 @@
 /**
 
+ **PETITE DESCRIPTION**
+
 @param {number[]} data
 
 @returns {number}
